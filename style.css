@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    padding: 20px;
+    
+}
+
+.matrix{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+}
+
+.cuadro{
+    color: ;
+    height: 250px;
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 20px;
+    flex-basis: 500px;
+    border-radius: 10px;
+}
+
+.imagen{
+    width: 28px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+
+.nombre{
+    color: white;
+}
+
+.titulo{
+    color: white;
+}
+
+.detalle{
+    color: white;
+}
+
+.cuadro1{
+    height: 250px;
+    background-color: gray;
+    margin: 10px;
+    padding: 20px;
+    flex-basis: 200px;
+    border-radius: 10px;
+}
+.matrix1{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+}
+
+.cuadro2{
+    height: 250px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    flex-basis: 200px;
+    border-radius: 10px;
+}
+
+.imagen2{
+    width: 28px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+
+.nombre2{
+    color: gray;
+}
+
+.titulo2{
+    color: black;
+}
+
+.detalle2{
+    color: gray;
+}
+
+.cuadro3{
+    height: 250px;
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+    flex-basis: 500px;
+    border-radius: 10px;
+}
+
+.imagen3{
+    width: 28px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+
+.nombre3{
+    color: gray;
+}
+
+.titulo3{
+    color: white;
+}
+
+.detalle3{
+    color: gray;
+}
